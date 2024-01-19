@@ -263,7 +263,7 @@ export default function ImportTemplate({
                         <div className="conditions">
                           <h4>
                             <ImGlass />
-                            Bevande Incluse
+                            Beverage Included
                           </h4>
                         </div>
 

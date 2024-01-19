@@ -60,8 +60,8 @@ export default function EditOffer({ data, setData }) {
                   <h4>
                     <ImGlass />
                     {offer.beverageAvailability === "Incluse"
-                      ? "Bevande Incluse"
-                      : "Bevande non Incluse"}
+                      ? "Beverage Included"
+                      : "Beverage not Included"}
                   </h4>
                 </div>
 

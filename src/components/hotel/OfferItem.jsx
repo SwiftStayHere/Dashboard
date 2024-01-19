@@ -41,8 +41,8 @@ export default function OfferItem({ editOfferHandler, offer }) {
           <h4>
             <ImGlass />
             {offer.beverageAvailability === "Incluse"
-              ? "Bevande Incluse"
-              : "Bevande non Incluse"}
+              ? "Beverage Included"
+              : "Beverage not Included"}
           </h4>
         </div>
 
