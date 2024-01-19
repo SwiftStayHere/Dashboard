@@ -22,7 +22,7 @@ export default function Header() {
     if (pathname === "setting") {
       setTitle("Settings");
     } else if (pathname === "transport") {
-      setTitle("Trasporti");
+      setTitle("Transport");
     } else if (pathname.includes("hotel")) {
       setTitle("Hotel Management");
     } else if (pathname === "module") {

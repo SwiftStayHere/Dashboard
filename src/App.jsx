@@ -7,7 +7,7 @@ import Root from "./components/root/Root";
 
 function App() {
   useEffect(() => {
-    moment.locale("it");
+    moment.locale("en");
   }, []);
   return (
     <div className="app">

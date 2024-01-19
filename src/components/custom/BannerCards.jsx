@@ -10,35 +10,35 @@ const BannerCards = () => {
   const progressCardsData = [
     {
       id: 1,
-      name: "Marco Sciosia",
+      name: "Monark Raj Jain",
       time: "3h 26m",
       bgColor: "#005CAB",
       width: "70%",
     },
     {
       id: 2,
-      name: "Alex Cannava",
+      name: "Akshat Bhansali",
       time: "2h 26m",
-      bgColor: "#005CAB",
+      bgColor: "#000",
       width: "50%",
     },
     {
       id: 3,
-      name: "Frank Giulia...",
+      name: "Shivam Santosh Patil",
       time: "1h 26m",
       bgColor: "#34C759",
       width: "30%",
     },
     {
       id: 4,
-      name: "Giovanna Ba...",
+      name: "Akshit Nandan",
       time: "4h 26m",
       bgColor: "#FF9500",
       width: "100%",
     },
     {
       id: 5,
-      name: "Marco Sciosia",
+      name: "Praveen Kumar Jaiswal",
       time: "3h 26m",
       bgColor: "#FC3400",
       width: "80%",
@@ -138,7 +138,7 @@ const BannerCards = () => {
 
         {/* Counter */}
         <div className="counter">
-          <h1 className="jakarta">Marco Scio...</h1>
+          <h1 className="jakarta">Monark Jain</h1>
         </div>
 
         {/* statistics */}

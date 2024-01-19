@@ -6,10 +6,11 @@ const Login = () => {
   return (
     <div className="loginPage">
       {/* logo */}
-      <div className="logo">
+      <div className="logo loginNav">
         <NavLink to="/">
-          <img src="./images/login-logo.svg" alt="logo" />
+          <img src="./images/logo.png" alt="logo" height={80} />
         </NavLink>
+        <h1>Swiftstay</h1>
       </div>
 
       {/* Overlay One */}
@@ -24,7 +25,7 @@ const Login = () => {
 
       {/* Overlay One */}
       <div className="overlay_three">
-        <img src="./images/login-overlay-3.png" alt="" />
+        <img src="./images/login-overlay-3-overlay.png" alt="" />
       </div>
 
       {/* Form */}
@@ -33,7 +34,7 @@ const Login = () => {
         <div className="form_box">
           {/* heading */}
           <div className="heading">
-            <h1 className="jakarta">Benvenuto</h1>
+            <h1 className="jakarta">Welcome</h1>
           </div>
 
           {/* form */}
