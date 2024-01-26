@@ -35,6 +35,7 @@ const Login = () => {
           {/* heading */}
           <div className="heading">
             <h1 className="jakarta">Welcome</h1>
+            <p className="red-text">If you are not a registered user just press "<span className="blue-text">Login</span>"</p>
           </div>
 
           {/* form */}

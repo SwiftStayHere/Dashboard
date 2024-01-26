@@ -7,8 +7,8 @@ import values from "../../../values";
 export default function LoginForm() {
   const navigate = useNavigate();
   const [data, setData] = useState({
-    email: "",
-    password: "",
+    email: "gmail@gmail.com",
+    password: "1234",
   });
   const [errors, setErrors] = useState({});
   const [isLoading, setIsloading] = useState(false);
